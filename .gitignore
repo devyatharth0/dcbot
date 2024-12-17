@@ -1,0 +1,8 @@
+# ...existing code...
+
+# Ignore sensitive files
+config.py
+.venv
+# Ignore Python cache
+__pycache__/
+
